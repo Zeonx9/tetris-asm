@@ -27,22 +27,10 @@ tetris /off # quit
 
 ### Demonstation
 
-![gameplay](https://github.com/user-attachments/assets/0a6fae29-5f00-4101-889c-aaf9f8cac07b)
+https://github.com/user-attachments/assets/0a6fae29-5f00-4101-889c-aaf9f8cac07b
 
 ### Controlls 
 
-" - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - "
-
--> press <P> to start the game and pause/resume it later
-
--> press <D> to move left   and <F> to move right
-
--> press <J> to rotate left and <K> to rotate right
-
--> press <V> to move down immediatly
-
--> press <P> again to restart the game after game is over
-
-" - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - "
+<img width="526" alt="image" src="https://github.com/user-attachments/assets/96b212d8-346f-4e82-8b3e-4e81d8990b5f">
 
 
